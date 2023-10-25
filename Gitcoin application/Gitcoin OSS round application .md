@@ -15,20 +15,6 @@ Welcome to Public Assembly's grant application for your review. This document ou
 
 ** *The following application was created on August 16th 2023*
 
-## **Table of Contents**
-
-- [Project Overview](https://chat.openai.com/c/1d436b79-e760-47ae-9ee7-a07cf5a932d9#project-overview)
-- [Additional Information](https://chat.openai.com/c/1d436b79-e760-47ae-9ee7-a07cf5a932d9#additional-information)
-- [Funding Details](https://chat.openai.com/c/1d436b79-e760-47ae-9ee7-a07cf5a932d9#funding-details)
-- [Team](https://chat.openai.com/c/1d436b79-e760-47ae-9ee7-a07cf5a932d9#team)
-- [Project Age](https://chat.openai.com/c/1d436b79-e760-47ae-9ee7-a07cf5a932d9#project-age)
-- [Main Team Members](https://chat.openai.com/c/1d436b79-e760-47ae-9ee7-a07cf5a932d9#main-team-members)
-- [Eligibility Criteria](https://chat.openai.com/c/1d436b79-e760-47ae-9ee7-a07cf5a932d9#eligibility-criteria)
-- [Impact Measurement](https://chat.openai.com/c/1d436b79-e760-47ae-9ee7-a07cf5a932d9#impact-measurement)
-- [Prior Updates](https://chat.openai.com/c/1d436b79-e760-47ae-9ee7-a07cf5a932d9#prior-updates)
-- [Project Affiliations](https://chat.openai.com/c/1d436b79-e760-47ae-9ee7-a07cf5a932d9#project-affiliations)
-- [Location](https://chat.openai.com/c/1d436b79-e760-47ae-9ee7-a07cf5a932d9#location)
-
 ---
 
 ## **Project Overview**

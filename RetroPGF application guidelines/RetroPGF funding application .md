@@ -38,7 +38,7 @@ This first section is all about what you’ve built. It doesn’t matter if you�
 
 Where can badgeholders find out more about your contributions? Examples: a website, Github repository, on-chain contract.
 
-![Screen Shot 2023-10-25 at 4.46.58 PM.png](RetroPGF%20funding%20application%208209bbdf0a974178af24324bd954e1bf/Screen_Shot_2023-10-25_at_4.46.58_PM.png)
+<img width="603" alt="Screen_Shot_2023-10-25_at_4 46 41_PM" src="https://github.com/public-assembly/grants-guide/assets/74994863/1533d978-4a25-42ed-88dd-1773130c15de">
 
 Eg. Optimism contract (etherscan url), with a short description
 
@@ -63,7 +63,8 @@ Describe the impact your contributions had on the Optimism Collective!
 
 Highlight metrics to help badgeholders understand your impact. You can link to data dashboards, onchain contracts, spreadsheets, or any resources.
 
-![Screen Shot 2023-10-25 at 4.46.41 PM.png](RetroPGF%20funding%20application%208209bbdf0a974178af24324bd954e1bf/Screen_Shot_2023-10-25_at_4.46.41_PM.png)
+<img width="603" alt="Screen_Shot_2023-10-25_at_4 46 58_PM" src="https://github.com/public-assembly/grants-guide/assets/74994863/fa156301-23cb-40bd-8a40-1d9087b5c9e9">
+
 
 ## Step 3 :Grants and funding
 
@@ -79,7 +80,8 @@ Badgeholders must understand how much OP, revenue, or funding they have already 
 - You do not need to provide VC funding or other investments in your project or person.
 - If you’re applying for contributions made over a long period, you should at a minimum report grants and funding received since 01.06.2022.
 
-![Screen Shot 2023-10-25 at 4.48.03 PM.png](RetroPGF%20funding%20application%208209bbdf0a974178af24324bd954e1bf/Screen_Shot_2023-10-25_at_4.48.03_PM.png)
+<img width="583" alt="Screen_Shot_2023-10-25_at_4 48 03_PM" src="https://github.com/public-assembly/grants-guide/assets/74994863/d67aacb6-89d6-4d3f-8b98-788df6f9d67c">
+
 
 ## Step 4: Payout address
 
